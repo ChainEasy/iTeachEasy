@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: https://chaineasy.github.io/iTeachEasy/
 languageCode: en-us
 title: iTeachEasy
 theme: hugo-fresh
